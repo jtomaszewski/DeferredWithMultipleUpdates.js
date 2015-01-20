@@ -1,0 +1,17 @@
+{
+  "name": "DeferredWithMultipleUpdates.js",
+  "version": "0.2.0",
+  "homepage": "https://github.com/jtomaszewski/DeferredWithMultipleUpdates.js",
+  "authors": [
+    "Ben Nadel",
+    "Jacek Tomaszewski <jacek@jtom.me>"
+  ],
+  "description": "DeferredWithMultipleUpdates.js is an AngularJS class that decorates the core $q class, allowing it to be resolved / rejected multiple times.",
+  "main": "lib/deferred-with-multiple-updates.js",
+  "keywords": [
+    "angularjs",
+    "deferred",
+    "promise"
+  ],
+  "license": "MIT"
+}
